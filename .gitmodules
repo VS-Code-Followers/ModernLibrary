@@ -1,0 +1,6 @@
+[submodule "ml_web"]
+	path = ml_web
+	url = git@github.com:VS-Code-Followers/ml_web.git
+[submodule "ml_backend"]
+	path = ml_backend
+	url = git@github.com:VS-Code-Followers/ml_backend.git
